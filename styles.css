@@ -1,0 +1,75 @@
+#main {
+    background-image: url(https://images.unsplash.com/photo-1515694346937-94d85e41e6f0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmFpbnxlbnwwfHwwfHw%3D&w=1000&q=80); 
+    background-size: cover;
+    text-align: center;
+    color: white;
+    height: auto;
+  }
+  
+  #title {
+    text-align: center;
+    color: black;
+    font-family: 'Bad Script', cursive;
+  }
+  
+  h1 {
+    font-family: 'Delius', cursive;
+    text-decoration: underline;
+    font-weight: 10px;
+  }
+  
+  #main > p {
+    text-align: center;
+    font-family: 'Delius', cursive;
+    font-weight: bold;
+    color: black;
+    font-size: 19px;
+  }
+  
+  #img-div{
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 15px;
+    background-color: #0E329C;
+  }
+  
+  #image{
+    display: block;
+    max-width: 100%;
+    padding-bottom: 10px;
+    border-style: onset; 
+  
+  }
+  
+  #tribute-info{
+    max-width: 600px;
+    margin: 0 auto;
+    font-family: 'Delius', cursive;
+  }
+  
+  #tribute-info > h3 {
+    text-align: center;
+  }
+  
+  #tribute-info > ul li {
+    margin-bottom: 10px;
+    line-height: 30px;
+  }
+  
+  h5{
+    text-align: center;
+    font-family: 'Bad Script', cursive;
+    color: black;
+    font-size: 15px;
+  }
+  
+  a:hover, a:visited {
+    color: cyan;
+    text-decoration: underline;
+    background-color: black;
+  }
+  
+ footer {
+    background-image: url(https://images.unsplash.com/photo-1515694346937-94d85e41e6f0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmFpbnxlbnwwfHwwfHw%3D&w=1000&q=80); 
+    background-color: transparent;
+ } 
